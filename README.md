@@ -9,4 +9,4 @@ This repository contains links to tutorials and other notes created by me.
 
 ## Useful Modules
 
-- [QR-Code-Generator-With-QRCode-Module](https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind): A QR code generator using the QRCode module.
+- [QR-Code-Generator-With-QRCode-Module](https://github.com/ZeroaNinea/QR-Code-Generator-With-QRCode-Module): A QR code generator using the QRCode module.
