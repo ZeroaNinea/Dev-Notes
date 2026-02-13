@@ -6,6 +6,7 @@ This repository contains links to tutorials and other notes created by me.
 
 - [Next.js-CSS-TS-Declaration-Fix](https://github.com/ZeroaNinea/Next.js-CSS-TS-Declaration-Fix): Fix the absence of a declaration file that allows to import CSS files into TSX ones, when you create a new Next.js project.
 - [Modal-Window-Vite-React-Tailwind](https://github.com/ZeroaNinea/Modal-Window-Vite-React-Tailwind): A tutorial to create a draggable modal window with a rainbow button using Vite, React and Tailwind CSS.
+- [Install NVM & Node.js on Windows, Mac and Linux](https://medium.com/@heghine.dev357/install-nvm-node-js-on-windows-mac-and-linux-361891b54bf8)
 
 ## Useful Modules
 
