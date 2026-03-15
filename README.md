@@ -9,6 +9,7 @@ This repository contains links to tutorials and other notes created by me.
 - [Install NVM & Node.js on Windows, Mac and Linux](https://medium.com/@heghine.dev357/install-nvm-node-js-on-windows-mac-and-linux-361891b54bf8)
 - [How to Deploy Kubernetes Dashboard](https://github.com/ZeroaNinea/Kubernetes-Dashboard)
 - [JWT-Nest.js-Key-Rotation-Example](https://github.com/ZeroaNinea/JWT-Nest.js-Key-Rotation-Example)
+- [Fixing Initial Errors Nest.js](https://github.com/ZeroaNinea/Fixing-Initial-Errors-Nest.js)
 
 ## Useful Modules
 
