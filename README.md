@@ -10,6 +10,7 @@ This repository contains links to tutorials and other notes created by me.
 - [How to Deploy Kubernetes Dashboard](https://github.com/ZeroaNinea/Kubernetes-Dashboard)
 - [JWT-Nest.js-Key-Rotation-Example](https://github.com/ZeroaNinea/JWT-Nest.js-Key-Rotation-Example)
 - [Fixing Initial Errors Nest.js](https://github.com/ZeroaNinea/Fixing-Initial-Errors-Nest.js)
+- [Integrate React with i18next, Vite, Tailwind and @tanstack/react-router](https://github.com/ZeroaNinea/React-Vite-i18next--tanstack-react-router-Tailwind-Example)
 
 ## Useful Modules
 
