@@ -11,6 +11,7 @@ This repository contains links to tutorials and other notes created by me.
 - [JWT-Nest.js-Key-Rotation-Example](https://github.com/ZeroaNinea/JWT-Nest.js-Key-Rotation-Example)
 - [Fixing Initial Errors Nest.js](https://github.com/ZeroaNinea/Fixing-Initial-Errors-Nest.js)
 - [Integrate React with i18next, Vite, Tailwind and @tanstack/react-router](https://github.com/ZeroaNinea/React-Vite-i18next--tanstack-react-router-Tailwind-Example)
+- [A `CommandPalette` component with color theme changing logic in Angular](https://github.com/ZeroaNinea/Command-Palette-Angular)
 
 ## Useful Modules
 
