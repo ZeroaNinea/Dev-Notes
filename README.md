@@ -16,3 +16,15 @@ This repository contains links to tutorials and other notes created by me.
 ## Useful Modules
 
 - [QR-Code-Generator-With-QRCode-Module](https://github.com/ZeroaNinea/QR-Code-Generator-With-QRCode-Module): A QR code generator using the QRCode module.
+
+## WorkLoo Certificates
+
+- Frontend Developer Certification: [https://workloo.com/verify/WLV8R63PO1](https://workloo.com/verify/WLV8R63PO1)
+- SQL (Expert): [https://workloo.com/verify/WLKID53SH7](https://workloo.com/verify/WLKID53SH7)
+- Angular (Expert): [https://workloo.com/verify/WLBL3IYS6S](https://workloo.com/verify/WLBL3IYS6S)
+- React (Expert): [https://workloo.com/verify/WL6IGOPXQE](https://workloo.com/verify/WL6IGOPXQE)
+- REST API (Expert): [https://workloo.com/verify/WL1U74XQ94](https://workloo.com/verify/WL1U74XQ94)
+- Node.js (Expert): [https://workloo.com/verify/WLQI8NSFOI](https://workloo.com/verify/WLQI8NSFOI)
+- JavaScript (Expert): [https://workloo.com/verify/WLD0LVEZVY](https://workloo.com/verify/WLD0LVEZVY)
+- CSS (Expert): [https://workloo.com/verify/WL8CZ88A9G](https://workloo.com/verify/WL8CZ88A9G)
+- HTML (Expert): [https://workloo.com/verify/WLHOKEE6ZY](https://workloo.com/verify/WLHOKEE6ZY)
